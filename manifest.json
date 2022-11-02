@@ -1,0 +1,28 @@
+{
+
+  "manifest_version": 3,
+  "name": "Ditto",
+  "version": "0.1",
+
+  "description": "Syncs local clipboard with remote over websockets.",
+
+  "icons": {
+    "48": "icons/ditto-48.png"
+  },
+
+  "permissions": [
+	  "activeTab",
+	  "scripting",
+	  "clipboardRead",
+	  "clipboardWrite"
+  ],
+
+  "action": {
+    "default_icon": {
+	    "32": "icons/ditto-32.png"
+    },
+    "default_title": "Ditto",
+    "default_popup": "toolbar.html"
+  }
+}
+
