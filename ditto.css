@@ -14,6 +14,7 @@
   background: #c57be6;
   border: 1px solid #0000;
   border-radius: 0.3rem;
+  display: inline-block;
 }
 
 .btn:focus {
