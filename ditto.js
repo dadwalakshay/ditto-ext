@@ -4,7 +4,7 @@ function copyToRemote (userInput) {
       // Nothing needs to be done here.
     },
     (e) => {
-  	  alert(`Ditto failed {e}`);
+      alert(`Ditto failed ${e}`);
     }
   );
 }

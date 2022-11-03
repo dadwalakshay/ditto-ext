@@ -1,0 +1,22 @@
+.form__input {
+  border-radius: 0.3rem;
+  display: block;
+  transition: all 0.3s;
+}
+
+.container {
+  text-align: center;
+}
+
+.btn {
+  cursor: pointer;
+  margin: 3px;
+  background: #c57be6;
+  border: 1px solid #0000;
+  border-radius: 0.3rem;
+}
+
+.btn:focus {
+  background: #7ecdcd;
+  transition: 0.3s;
+}

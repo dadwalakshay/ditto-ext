@@ -7,7 +7,7 @@
   "description": "Syncs local clipboard with remote over websockets.",
 
   "icons": {
-    "48": "icons/ditto-48.png"
+    "64": "icons/ditto-64.png"
   },
 
   "permissions": [
